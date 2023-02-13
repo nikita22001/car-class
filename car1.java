@@ -16,7 +16,7 @@ public class car1 {
 		car3.printData();
 	}
 }
-
+//crerate car class
 class Car {
 
 	public boolean accelerate;
@@ -24,6 +24,7 @@ class Car {
 	public String model;
 	public int amountofFuel;
 	public String color;
+
 
 	//Default Constructor
 	public Car() {
